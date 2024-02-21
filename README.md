@@ -1,2 +1,2 @@
 # Chipotle
-Data visualization and Modeling analysis
+Data visualization and analysis
